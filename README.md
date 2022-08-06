@@ -19,5 +19,7 @@ For preprocessing purposes, the missing values were deleted from the dataset. Al
 Normalization eas also done on this dataset in order to get better results in training phase. <br>
 Visualizing the data before applying any ml algorithm can help understand and analyze data better. Visualizing data with more than three dimensions is not feasible nor easy. To address this problem, PCA was applied to this data to obtain a 2 dimensional dataset for visualizing purposes.<br>
 ### Classification
+The main goal of this project was to practice using and finding the best classification algorithms and functions for each type of data distribution. Different parameters were analyzed during this project, including learning_rate, to obtain the best results and accuracy. <br>
+In the last section of this project, the fashion_mnist dataset was imported to test the classification algorithm.
 ### Clustering
 ### Association Rule Extraction
