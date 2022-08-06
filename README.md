@@ -14,6 +14,7 @@ The Iris dataset contains information on three types of flowers (iris-setosa، i
 - sepal width in cm <br>
 - petal length in cm <br>
 - petal width in cm <br>
+
 For preprocessing purposes, the missing values were deleted from the dataset. Also, the non-numeric (categorical) data was encoded using label encoding. Although label encoding is a very suitable approach to solving this problem, it can only be applied to ordered data. In the case of encoding data with no order, one hot encoding is a feasible method.<br> 
 Normalization eas also done on this dataset in order to get better results in training phase. <br>
 Visualizing the data before applying any ml algorithm can help understand and analyze data better. Visualizing data with more than three dimensions is not feasible nor easy. To address this problem, PCA was applied to this data to obtain a 2 dimensional dataset for visualizing purposes.<br>
