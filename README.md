@@ -8,7 +8,7 @@ There 4 different project in this repository that each cover a different section
 ## Project Description
 A series of different data mining sub-projects are implemented in this project. This project was implemented to practice using different libraries and to work with different algorithms to gain knowledge and experience in this field of science. The full explanation of each sub-projects is written in the following sections.
 ### Analysing Iris Dataset
-This project aimed at preprocessing the data obtained from the Iris dataset using two major preprocessing libraries in machine learning: [Pandas] (https://pandas.pydata.org/docs/), and (scikit-learn) [https://scikit-learn.org/stable/]. <br>
+This project aimed at preprocessing the data obtained from the Iris dataset using two major preprocessing libraries in machine learning: [Pandas](https://pandas.pydata.org/docs/), and [scikit-learn](https://scikit-learn.org/stable/). <br>
 The Iris dataset contains information on three types of flowers (iris-setosa، iris-versicolor, iris-virginica). The data collected for each of these categories of data contains four columns named: <br>
 - sepal length in cm <br>
 - sepal width in cm <br>
