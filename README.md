@@ -1,7 +1,7 @@
 # Data-Mining-Excercise
 There 4 different project in this repository that each cover a different section in the datamining world; from preprocessing and analyzing data to classification, clustering, etc.
 ## Project List
-- [Analysing Iris Dataset](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/Analyse_Iris_Dataset)
+- [Analysing Iris Dataset](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/AnalyseIrisDataset)
 - [Classification](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/AssociationRuleExtraction)
 - [Clustering](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/Classification)
 - [Association Rule Extraction](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/Clustering)
