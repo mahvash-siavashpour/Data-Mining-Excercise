@@ -1,10 +1,11 @@
 # Data-Mining-Excercise
-There 4 different project in this repository that each cover a different section in the datamining world; from preprocessing and analyzing data to classification, clustering, etc.
+There 5 different project in this repository that each cover a different section in the datamining world; from preprocessing and analyzing data to classification, clustering, etc.
 ## Project List
 - [Analysing Iris Dataset](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/AnalyseIrisDataset)
 - [Classification](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/AssociationRuleExtraction)
 - [Clustering](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/Classification)
 - [Association Rule Extraction](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/Clustering)
+- [Diabetes Detection](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/tree/main/Diabetes-Detection)
 ## Project Description
 A series of different data mining sub-projects are implemented in this project. This project was implemented to practice using different libraries and to work with different algorithms to gain knowledge and experience in this field of science. The full explanation of each sub-projects is written in the following sections.
 ### Analysing Iris Dataset
@@ -23,3 +24,5 @@ The main goal of this project was to practice using and finding the best classif
 In the last section of this project, the fashion_mnist dataset was imported to test the classification algorithm.
 ### Clustering
 ### Association Rule Extraction
+### Diabetes Detection
+The description of this project can be found [here](https://github.com/mahvash-siavashpour/Data-Mining-Excercise/blob/main/Diabetes-Detection/README.md)
