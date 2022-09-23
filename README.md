@@ -27,7 +27,7 @@ In this project some clustering algorithms were used to cluster data.
 #### 1. K-Means for Random Data
 First a set of random data was generated and then clustered using k-means algorithm. The issue with this problem is that we have to set the number of the clusters manually. To overcome this issue I used elbow method and calculated the cost function for 1 to 10 clusters and found the optimal number of clusters.
 <br>
-<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/elbow.png?raw=true" alt="img" width="300"/>
+<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/elbow.png?raw=true" alt="img" width="500"/>
 <br>
 
 #### 2. K-Means for Digit Dataset
@@ -39,7 +39,7 @@ In this section the digit dataset from Sklearn was used. K-means algorithm was a
 #### 3. K-Means for Image Compression
 In this section k-means algorithms was used to compress images. To achieve this goal the clustering was performed on the colors of the image. The image was reshaped into a matrix of shape (rows*cols, 3) and then each vector in the image was gouped into one of the 4 clusters using k-means algorithm. Then the image was reshaped back into its original shape and saved. The original and compressed images are shown below:
 <br>
-<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/bird.png?raw=true" alt="img" width="300"/>
+<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/bird.png?raw=true" alt="img" width="400"/>
 <br>
 
 #### 3. DBSCAN for More Complex Data Clustering
@@ -66,10 +66,9 @@ Association rules represent relationships and interdependencies between large se
 A common example of association rule discovery is "shopping cart analysis". In this process, according to the various items that customers put in their shopping carts, the buying habits and behavior of customers are analyzed, and by identifying the relationship between products, repeating patterns during shopping can be obtained.<br>
 
 Three important parameters:<br>
-
-Support shows the popularity of a set of items according to the frequency of transactions.<br>
-Confidence shows the probability of buying item y if item x is bought. x -> y<br>
-Lift is a combination of the above two parameters.<br>
+1. Support shows the popularity of a set of items according to the frequency of transactions.
+2. Confidence shows the probability of buying item y if item x is bought. x -> y
+3. Lift is a combination of the above two parameters.
 To implement association rules in this project, we use the Apriori algorithm, which is one of the most popular and efficient algorithms in this field.
 
 
