@@ -27,7 +27,7 @@ In this project some clustering algorithms were used to cluster data.
 #### 1. K-Means for Random Data
 First a set of random data was generated and then clustered using k-means algorithm. The issue with this problem is that we have to set the number of the clusters manually. To overcome this issue I used elbow method and calculated the cost function for 1 to 10 clusters and found the optimal number of clusters.
 <br>
-{% include figure.html path="assets/img/elbow.png" title="img" class="img-fluid rounded z-depth-1" width="200" %}
+<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/elbow.png?raw=true" alt="img" width="300"/>
 <br>
 
 #### 2. K-Means for Digit Dataset
