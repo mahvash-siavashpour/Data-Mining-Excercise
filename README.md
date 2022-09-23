@@ -42,7 +42,7 @@ In this section k-means algorithms was used to compress images. To achieve this 
 <img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/bird.png?raw=true" alt="img" width="400"/>
 <br>
 
-#### 3. DBSCAN for More Complex Data Clustering
+#### 4. DBSCAN for More Complex Data Clustering
 DBSCAN algorithm was used in this section to cluster more complex data distributions that cannot be properly clustered using k-means. To used this algorithm it is necessary to set min pts and eps properly. In order to find the optimal eps KNN algorithm was used.<br> 
 
 Howevet, the min pts was set using some rules and experiments. <br>
